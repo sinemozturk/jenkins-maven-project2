@@ -1,0 +1,1 @@
+- this is simple maven project
